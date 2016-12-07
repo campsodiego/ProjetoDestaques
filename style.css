@@ -1,0 +1,115 @@
+.destaques .nav-tabs-custom {
+	color: #993234;
+	font-family: "Myriad Pro";
+	font-size: 25px;
+	display: flex;
+}
+.destaques h2{
+	font-size: 22px;
+	color: #000000;
+}
+
+.destaques .val{
+	font-size: 22px;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{ 
+	border:none;
+	text-align: center;
+}
+.destaques .nav-tabs-custom ul{
+	align-items: center;
+}
+.destaques .nav-tabs-custom li a{
+	text-decoration: none;
+	color: #993234;
+}
+.destaques .nav-tabs-custom li.active a{
+	color: #993234;
+	font-weight: bold;
+}
+.destaques .nav-tabs-custom li.active a:hover{
+	text-decoration: none;
+}
+.destaques ,nav-tabs-custom span{
+	color: #993234;
+}
+.destaques .nav-tabs-custom li.active a:focus{
+	color: #993234;
+}
+
+.destaques .main-box{
+	display:flex;
+	width:100%;
+	flex-wrap:wrap;
+}
+.destaques .second-box{
+	display: flex;
+	width: 50%;
+}
+.destaques .img-box{
+	width: 50%;
+	padding-top: 20px;
+}
+.destaques .detalhes{
+	display: flex;
+	border-bottom: 1px solid #DDDDDD;
+}
+.destaques .detalhes p{
+	color: #000000;
+	font-size: 15px;
+}
+.destaques .detalhes p i{
+	color: #993234;
+	font-weight: bold;
+}
+.destaques .conteudo{
+
+	margin-top: 0;
+}
+.destaques .modal-header-custom {
+	padding: 15px;
+    color: #FFFFFF;
+    background-color: #993234;
+}
+.destaques .container-custom-header{
+	color: #000000;
+	width: 750px;
+}
+.destaques .container-custom-header label{
+	font-weight: normal;
+}
+.destaques .container-custom-header input{
+	width: 100%;
+}
+.destaques .container-custom-header textarea{
+	width: 100%;
+}
+.destaques .titulo{
+	text-align: center;
+	padding-top: 10px;
+    padding-bottom: 40px;
+}
+.destaques .enviar{
+	text-align: center;
+}
+.destaques .btn-lg-custom{
+	border-radius: 30px;
+	width: 200px;
+	color: #FFFFFF;
+	background-color: #993234;
+	border-color: none;
+}
+.destaques .btn-primary-custom{
+	
+}
+#plus-tel{
+	height: 30px;
+	width: 40px;
+	color: #DDDDDD;
+	background-color: #EEEEEE;
+	border-color: #CCCCCC;
+	margin-left: 20px;
+}
+#enviar{
+	text-align: center;
+}
